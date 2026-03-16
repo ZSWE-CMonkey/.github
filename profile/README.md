@@ -30,7 +30,7 @@ Projekt nevzniká izolovaně, ale v úzké spolupráci napříč fakultami:
 
 Rozdělení rolí v našem týmu:
 * **Štěpán Bříza** – Team Lead. Má na starosti návrh uživatelského rozhraní (UI/UX) a celkové řízení projektu.
-* **Kristián Kameník** – Structural Engineer. Hlídá celkovou integritu aplikace a zajišťuje fungování 3d grafického enginu v rámci MAUI.
+* **Kristián Kameník** – Structural Engineer & 3d engine engineer. Hlídá celkovou integritu aplikace a zajišťuje fungování 3d grafického enginu v rámci MAUI.
 * **Michal Jonáš** – Backend Developer. 
 * **Ondřej Všelko** – Frontend Developer.
 * **Petr Chrz** – Databázový specialista. Řeší datové modely, výběr lokální databáze a vypracování povinných byznys dokumentů (WBS).
